@@ -1,5 +1,9 @@
-## Hey there! 👋✨
+## Hey there! 👋 ✮⋆˙
+☕ My name's Cass and I'm a Software Engineering student.ᐟ   (˶ᵔ ᵕ ᵔ˶)
 
+🌱 Nice to meet you .✦ ݁˖
+
+.☘︎ ݁˖
 <!--
 **csollano/csollano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
