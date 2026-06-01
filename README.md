@@ -3,6 +3,8 @@
 
 🌱 Nice to meet you.ᐟ  .✦ ݁˖
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vscode,python)](https://skillicons.dev)
+
 .☘︎ ݁˖
 <!--
 **csollano/csollano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
