@@ -1,7 +1,7 @@
 ## Hey there! 👋 ✮⋆˙
-☕ My name's Cass and I'm a Software Engineering student.ᐟ   (˶ᵔ ᵕ ᵔ˶)
+☕ My name's Cass and I'm a Software Engineering student.  (˶ᵔ ᵕ ᵔ˶)
 
-🌱 Nice to meet you .✦ ݁˖
+🌱 Nice to meet you.ᐟ  .✦ ݁˖
 
 .☘︎ ݁˖
 <!--
